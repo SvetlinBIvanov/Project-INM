@@ -1,0 +1,10 @@
+D:\DIP\prj\prj\bin\Debug\prj.exe.config
+D:\DIP\prj\prj\bin\Debug\prj.exe
+D:\DIP\prj\prj\bin\Debug\prj.pdb
+D:\DIP\prj\prj\obj\Debug\prj.csproj.AssemblyReference.cache
+D:\DIP\prj\prj\obj\Debug\prj.Form1.resources
+D:\DIP\prj\prj\obj\Debug\prj.Properties.Resources.resources
+D:\DIP\prj\prj\obj\Debug\prj.csproj.GenerateResource.cache
+D:\DIP\prj\prj\obj\Debug\prj.csproj.CoreCompileInputs.cache
+D:\DIP\prj\prj\obj\Debug\prj.exe
+D:\DIP\prj\prj\obj\Debug\prj.pdb
